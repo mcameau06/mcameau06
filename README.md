@@ -13,7 +13,7 @@
   </a>
 </p>
 <h2>Contact Me</h2>
-<a href="www.linkedin.com/in/mcameau20"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="https://www.linkedin.com/in/mcameau20" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 
 <!--
 **mcameau06/mcameau06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
