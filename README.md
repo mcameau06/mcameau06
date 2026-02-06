@@ -2,7 +2,7 @@
 <h1>About Me</h1>
 <ul>
   <li>Computer Science student at Umass Boston</li>
-  <li>I'm interested in data science, finance, AI in healthcare, and backend development</li>
+  <li>I'm interested in data science, finance, and research</li>
  <li>🎼 I'm also a musician and mainly play trumpet as well as compose occasionally</li>
 </ul>
 
