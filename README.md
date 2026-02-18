@@ -2,16 +2,9 @@
 <h1>About Me</h1>
 <ul>
   <li>Computer Science student at Umass Boston</li>
-  <li>I'm interested in data science, finance, and research</li>
  <li>🎼 I'm also a musician and mainly play trumpet as well as compose occasionally</li>
 </ul>
 
-<p align="center">
-  <h1>My Main Programming Languages</h1>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,js,c,java" />
-  </a>
-</p>
 <h2>Contact Me</h2>
 <a href="https://www.linkedin.com/in/mcameau20" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 
